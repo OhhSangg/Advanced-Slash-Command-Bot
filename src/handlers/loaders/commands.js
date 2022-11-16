@@ -27,7 +27,7 @@ module.exports = (client) => {
         };
     });
 
-    const rest = new REST({ version: '9' }).setToken("OTAwNjAxMjM4NzQyMjQ5NDgz.GKZEsN.g7iGXnjn0SqkZj7KU_ZW9ne6ZVOP0hzvCu8pNo");
+    const rest = new REST({ version: '9' }).setToken(process.env.TOKEN);
 
     (async () => {
         try {
