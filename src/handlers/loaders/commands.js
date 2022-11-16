@@ -27,7 +27,7 @@ module.exports = (client) => {
         };
     });
 
-    const rest = new REST({ version: '9' }).setToken(process.env.TOKEN);
+    const rest = new REST({ version: '9' }).setToken(process.env.TOKEN || "YOUR BOT TOKEN HERE!");
 
     (async () => {
         try {
