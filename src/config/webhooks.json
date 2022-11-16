@@ -1,0 +1,58 @@
+{
+    "startLogs": {
+        "id": "1021321226913857587",
+        "token": "K0dmJB_cu2FeP66iTlFXKQbn27GKTZXglRp5Op1M68_2iJSloUBrCTDp7ilWtoZjy3qp"
+    },
+    "shardLogs": {
+        "id": "1021321226913857587",
+        "token": "K0dmJB_cu2FeP66iTlFXKQbn27GKTZXglRp5Op1M68_2iJSloUBrCTDp7ilWtoZjy3qp"
+    },
+    "errorLogs": {
+        "id": "1021321226913857587",
+        "token": "K0dmJB_cu2FeP66iTlFXKQbn27GKTZXglRp5Op1M68_2iJSloUBrCTDp7ilWtoZjy3qp"
+    },
+    "dmLogs": {
+        "id": "1021321226913857587",
+        "token": "K0dmJB_cu2FeP66iTlFXKQbn27GKTZXglRp5Op1M68_2iJSloUBrCTDp7ilWtoZjy3qp"
+    },
+    "voiceLogs": {
+        "id": "1021321226913857587",
+        "token": "K0dmJB_cu2FeP66iTlFXKQbn27GKTZXglRp5Op1M68_2iJSloUBrCTDp7ilWtoZjy3qp"
+    },
+    "serverLogs": {
+        "id": "1021321226913857587",
+        "token": "K0dmJB_cu2FeP66iTlFXKQbn27GKTZXglRp5Op1M68_2iJSloUBrCTDp7ilWtoZjy3qp"
+    },
+    "serverLogs2": {
+        "id": "1021321226913857587",
+        "token": "K0dmJB_cu2FeP66iTlFXKQbn27GKTZXglRp5Op1M68_2iJSloUBrCTDp7ilWtoZjy3qp"
+    },
+    "commandLogs": {
+        "id": "1021321226913857587",
+        "token": "K0dmJB_cu2FeP66iTlFXKQbn27GKTZXglRp5Op1M68_2iJSloUBrCTDp7ilWtoZjy3qp"
+    },
+    "consoleLogs": {
+        "id": "1021321226913857587",
+        "token": "K0dmJB_cu2FeP66iTlFXKQbn27GKTZXglRp5Op1M68_2iJSloUBrCTDp7ilWtoZjy3qp"
+    },
+    "warnLogs": {
+        "id": "1021321226913857587",
+        "token": "K0dmJB_cu2FeP66iTlFXKQbn27GKTZXglRp5Op1M68_2iJSloUBrCTDp7ilWtoZjy3qp"
+    },
+    "voiceErrorLogs": {
+        "id": "1021321226913857587",
+        "token": "K0dmJB_cu2FeP66iTlFXKQbn27GKTZXglRp5Op1M68_2iJSloUBrCTDp7ilWtoZjy3qp"
+    },
+    "creditLogs": {
+        "id": "1021321226913857587",
+        "token": "K0dmJB_cu2FeP66iTlFXKQbn27GKTZXglRp5Op1M68_2iJSloUBrCTDp7ilWtoZjy3qp"
+    },
+    "evalLogs": {
+        "id": "1021321226913857587",
+        "token": "K0dmJB_cu2FeP66iTlFXKQbn27GKTZXglRp5Op1M68_2iJSloUBrCTDp7ilWtoZjy3qp"
+    },
+    "interactionLogs": {
+        "id": "1021321226913857587",
+        "token": "K0dmJB_cu2FeP66iTlFXKQbn27GKTZXglRp5Op1M68_2iJSloUBrCTDp7ilWtoZjy3qp"
+    }
+}
