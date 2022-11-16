@@ -22,6 +22,7 @@ module.exports = async (client, interaction, args) => {
     var ist = new Date().toLocaleString("en-US", {
         timeZone: "Asia/Calcutta",
     });
+    var ict = new Date().toLocaleString("en-US", { timeZone: "Asia/Hanoi" });
 
     client.embed({
         title: `⏰・World clock`,
@@ -67,8 +68,8 @@ module.exports = async (client, interaction, args) => {
                 inline: true,
             },
             {
-                name: ":flag_vn:┇VietNam (GMT)",
-                value: `${ist}\n(GMT+7)`,
+                name: ":flag_vn:┇VietNam (UCT)",
+                value: `${ict}\n(UCT+7)`,
                 inline: true,
             },
             {
