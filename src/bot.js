@@ -114,7 +114,7 @@ fs.readdirSync('./src/handlers').forEach((dir) => {
     });
 });
 
-client.login("OTAwNjAxMjM4NzQyMjQ5NDgz.GKZEsN.g7iGXnjn0SqkZj7KU_ZW9ne6ZVOP0hzvCu8pNo");
+client.login("TOKEN HERE!");
 
 process.on('unhandledRejection', error => {
     const embed = new Discord.MessageEmbed()
