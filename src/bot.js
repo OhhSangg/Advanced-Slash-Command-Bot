@@ -114,7 +114,7 @@ fs.readdirSync('./src/handlers').forEach((dir) => {
     });
 });
 
-client.login("TOKEN HERE!");
+client.login(process.env.TOKEN || "YOUR BOT TOKEN HERE!");
 
 process.on('unhandledRejection', error => {
     const embed = new Discord.MessageEmbed()
